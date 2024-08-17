@@ -1,0 +1,6 @@
+Input: num = 58, k = 9
+Output: 2
+Explanation:
+One valid set is [9,49], as the sum is 58 and each integer has a units digit of 9.
+Another valid set is [19,39].
+It can be shown that 2 is the minimum possible size of a valid set.
